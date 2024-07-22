@@ -82,7 +82,7 @@ Requirements:
 ---
 
 ```
-https://github.com/deadsechaceryt/deadsec_grabber
+https://github.com/FullPenetrationTesting/deadsec_grabber
 ```
 ```
 cd deadsec_grabber
